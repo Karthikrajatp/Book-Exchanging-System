@@ -9,7 +9,7 @@
  user. Members would be able to search for the required books and based on availability, contact information would be provided. Private discussion 
  can be done between the members of the community, and exchanges can be made.
 
-# Getting Started with Pet-Adoption-System
+# Getting Started with Book-Exchanging-System
 
 This project was created using [Flask](https://flask.palletsprojects.com/en/2.2.x/) and
  <p align="center">
