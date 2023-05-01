@@ -22,11 +22,11 @@ This project was created using [Flask](https://flask.palletsprojects.com/en/2.2.
 
 In the project directory, you can run:
 ```
-python app.py
+gunicorn -w 4 --bind 0.0.0.0:6100 main:gunicorn_app
 ```
 
 Runs the app in the development mode.\
-Open <http://localhost:5000> to view it in your browser.
+Open <http://localhost:6100/> to view it in your browser.
 
 ## Missing Modules
 
